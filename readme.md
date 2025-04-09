@@ -500,7 +500,7 @@ public class TranslatorServiceTest {
 项目代码托管在 GitHub 上，欢迎访问、参考和贡献：
 
 - GitHub 地址： [https://github.com/litongjava/max-translator-bot](https://github.com/litongjava/max-translator-bot)
-- 体验翻机器人：@maxtranslatorbot
+- 体验翻机器人：[@maxtranslatorbot](https://t.me/maxtranslatorbot)
 
 ---
 
